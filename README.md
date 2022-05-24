@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Dflorez015
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Dflorez015/Dflorez015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola mi nombre es Duvan Florez, soy desarrollador Frontend, me especializo en React, y en lenguajes de tipado como TypeScript.
+Tengo conocimientos en:
+  - Git.
+  - Docker.
+  - Rest Api.
+  - Next.
+  - Postgress.
+  - Sql.
+  - MongoDb.
+  - Python.
+  - Dart.
+  - Php.
+  - JavaScript.
+  - HTML5.
+  - css3.
+  - preprocesadores CSS.
+  - SPA y MicroFrontend.
