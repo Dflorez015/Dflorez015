@@ -9,6 +9,7 @@ Tengo conocimientos en:
   - MongoDb.
   - Python.
   - Dart.
+  - Arduino.
   - Php.
   - JavaScript.
   - HTML5.
